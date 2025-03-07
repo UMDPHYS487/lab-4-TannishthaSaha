@@ -21,6 +21,7 @@ int main() {
     // Print value of y and value stored at pointer x after modification
     printf("Modified value of y: %d\n", y);
     printf("Value at pointer x after modifying y: %d\n", *x);
+    printf("\n");
     
 }
 
